@@ -2,7 +2,7 @@
 
 It should be obvious why reproducible research (RR) is preferred to non-reproducible research.  Googling "reproducible research" should provide all the details.  Needless to say, most published research data analyses are very difficult to reproduce and hence the results of these analyses can easily be called into question.  A simple remedy is to do all research in a reproducible manner, from the very beginning with the exploratory analyses.
 
-Dynamic report generation and version control can help!  Hence, we consider knitr and GitHub below.
+Dynamic report generation and (distributed) version control can help!  Hence, we consider knitr and GitHub below.
 
 ### knitr, the dynamic report generation engine for R
 
