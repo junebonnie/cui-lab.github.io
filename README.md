@@ -15,7 +15,7 @@ Dynamic report generation and (distributed) version control can help!  Hence, we
 
 ### Why use version control?
 
-If you have ever ...
+Have you ever?
 
 - changed your code, then sometime later, wanted to revert back to your old code
 - had to develop multiple versions of your code
